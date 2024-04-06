@@ -1,0 +1,58 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: gray;
+}
+.card {
+    margin-bottom: 20px;
+    height: 100%;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.nombres{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: orange;
+}
+.carousel-img{
+    max-width: 100%;
+    height: auto;
+}
+.titulo{
+    text-align: center;
+    
+}
+.fondo-nav{
+    background-color: orange;
+    margin-top: -28px;
+    margin-bottom: -8px;
+    padding: .6rem;
+}
+.borde-nav{
+    border-color: black;
+    border-radius: 10px;
+}
+.imgcard{
+    margin-top: 100px;
+    margin-left: 800px;
+  
+}
+.tamaño{
+   
+    margin-bottom: -20px;
+}
+.carousel .carousel-item {
+    height: 863px;
+}
+
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 1000px;
+  }
+  
